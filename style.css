@@ -149,9 +149,9 @@ section {
     width: 600px;
 }
 
-/* Hackers */
+/* Guerra fria */
 
-.hackers {
+.guerraFria {
     padding-top: 50px;
 
     display: flex;
@@ -161,14 +161,14 @@ section {
     margin-bottom: 50px;
 }
 
-.hackers h2 {
+.guerraFria h2 {
     padding-bottom: 20px;
     color: var(--theme);
 }
 
-/* Ataques */
+/* Hillary */
 
-.ataque {
+.hillary {
     padding-top: 50px;
 
     display: flex;
@@ -178,14 +178,14 @@ section {
     margin-bottom: 50px;
 }
 
-.ataque h2 {
+.hillary h2 {
     padding-bottom: 20px;
     color: var(--theme);
 }
 
-/* Rússia */
+/* Ataque */
 
-#russia {
+#ataque {
     padding-top: 50px;
 
     display: flex;
@@ -195,14 +195,14 @@ section {
     margin-bottom: 50px;
 }
 
-#russia h2 {
+#ataque h2 {
     padding-bottom: 20px;
     color: var(--theme);
 }
 
-/* FBI */
+/* Hacker */
 
-#fbi {
+#hacker {
     padding-top: 50px;
 
     display: flex;
@@ -212,7 +212,7 @@ section {
     margin-bottom: 50px;
 }
 
-#fbi h2 {
+#hacker h2 {
     padding-bottom: 20px;
     color: var(--theme);
 }
